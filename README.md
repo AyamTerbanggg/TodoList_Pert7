@@ -1,3 +1,11 @@
+![image alt](https://github.com/AyamTerbanggg/TodoList_Pert7/blob/1a0e3ebf9d7de3418edd07cb0e7b134374fc461b/Screenshot%202024-11-15%20233622.png)
+
+![image alt](https://github.com/AyamTerbanggg/TodoList_Pert7/blob/1a0e3ebf9d7de3418edd07cb0e7b134374fc461b/Screenshot%202024-11-15%20233644.png)
+
+![image alt](https://github.com/AyamTerbanggg/TodoList_Pert7/blob/1a0e3ebf9d7de3418edd07cb0e7b134374fc461b/Screenshot%202024-11-15%20233721.png)
+
+![image alt](https://github.com/AyamTerbanggg/TodoList_Pert7/blob/1a0e3ebf9d7de3418edd07cb0e7b134374fc461b/Screenshot%202024-11-15%20233743.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
